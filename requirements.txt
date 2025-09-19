@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+gunicorn
+tensorflow==2.14.0
+pandas
+numpy
+requests
+python-dotenv
+joblib
+python-binance==1.0.16
